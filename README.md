@@ -12,9 +12,11 @@ Team leaders, when they log into the platform, will not only be able to make upd
 This project aims to make employee management more efficient and optimize business processes. It also aims to improve teamwork and information flow among employees, strengthening internal communication.
 
 ## Project Screenshots
-Project Web Page İmages: 
-![Login Page](https://github.com/iremSaral/EmployeeManage/raw/master/assets/92708146/6e19b69e-c795-4aa8-bbc3-ce169c7bb9a0.png)
+
+![image](https://github.com/iremSaral/EmployeeManage/assets/92708146/9af99ae5-4bb9-416a-b8ca-f30ec5500fb2)
+
 ![Home Page Card](https://github.com/iremSaral/EmployeeManage/assets/92708146/1dfb2e05-7b9a-4165-9735-9fc0654986cb)
+
 ![Home Page EmployeeList](https://github.com/iremSaral/EmployeeManage/assets/92708146/0040567e-77f4-4f66-b955-c3f4e07473bb)
 <img width="330" alt="Detail" src="https://github.com/iremSaral/EmployeeManage/assets/92708146/8f6be39c-e72e-4e7e-8b61-7098e2fce717">
 ![Team Page](https://github.com/iremSaral/EmployeeManage/assets/92708146/2f327c29-299c-4bce-be44-7eb6aff3d986)
@@ -25,6 +27,7 @@ Project Web Page İmages:
 
 ## Technologies Used
 - React.js
+- JavScript
 - MySQL
 
 ## Getting Started
@@ -34,5 +37,3 @@ To get started with this project, follow these steps:
 3. Configure the MySQL database.
 4. Run the project locally.
 
-## License
-This project is licensed under the XYZ License. See the [LICENSE.md](LICENSE.md) file for details.
